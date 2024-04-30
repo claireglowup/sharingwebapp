@@ -30,6 +30,7 @@
                                 <p style="color: red;">Password Salah</p>
                             <?php endif; ?>
                         </div>
+                        <a href="/signup">belum punya akun?</a>
                     </div>
 
 
