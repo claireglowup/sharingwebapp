@@ -173,8 +173,6 @@ class Author extends BaseController
                 'id_author' => (string)$data->id_author
             ];
 
-
-
             $this->likesModel->insert($likeData);
 
             $responseData = [
